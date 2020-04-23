@@ -4,3 +4,4 @@
   - [x] Some displays
   - [x] Some columns
   - [x] Some rows
+  - [x] Grid gaps
